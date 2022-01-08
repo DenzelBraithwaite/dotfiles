@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = braithwaite.d@hotmail.com
+	name = Denzel Braithwaite
